@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    border-radius: 5px;
+    max-height: 2em;
+}
+
+.webwell {
+    background-image: linear-gradient(#EEE, #FFF);
+    margin: 10px 0;
+    padding: 20px;
+}
